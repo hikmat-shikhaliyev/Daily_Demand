@@ -1,7 +1,7 @@
 # Daily Demand Forecasting using Support Vector Regression (SVR)
 This repository contains a Python script for predicting daily demand forecasting orders using Support Vector Regression (SVR). SVR is a supervised machine learning algorithm that can be used for regression tasks. In this project, it's applied to forecast the total daily orders based on various features.
 
-#Dataset
+# Dataset
 The dataset used in this project is loaded from an Excel file named "Daily_Demand_Forecasting_Orders_reg.xls". It contains the following columns:
 
 Day of the week: Numeric representation of the day (1 to 7).
